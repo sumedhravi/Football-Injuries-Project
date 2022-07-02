@@ -1,0 +1,770 @@
+,0,1,2,3
+0,Ederson,63000000.0,Goalkeeper,manchester-city
+1,Claudio Bravo,2250000.0,Goalkeeper,manchester-city
+2,Arijanet Muric,1800000.0,Goalkeeper,manchester-city
+3,Daniel Grimshaw,0.0,Goalkeeper,manchester-city
+4,Aymeric Laporte,67500000.0,Centre-Back,manchester-city
+5,John Stones,54000000.0,Centre-Back,manchester-city
+6,Nicolás Otamendi,22500000.0,Centre-Back,manchester-city
+7,Eliaquim Mangala,9000000.0,Centre-Back,manchester-city
+8,Vincent Kompany,7200000.0,Centre-Back,manchester-city
+9,Philippe Sandler,2250000.0,Centre-Back,manchester-city
+10,Pablo Marí,720000.0,Centre-Back,manchester-city
+11,Erik Palmer-Brown,540000.0,Centre-Back,manchester-city
+12,Eric García,0.0,Centre-Back,manchester-city
+13,Cameron Humphreys,0.0,Centre-Back,manchester-city
+14,Benjamin Mendy,31500000.0,Left-Back,manchester-city
+15,Oleksandr Zinchenko,18000000.0,Left-Back,manchester-city
+16,Kyle Walker,45000000.0,Right-Back,manchester-city
+17,Danilo,18000000.0,Right-Back,manchester-city
+18,Fernandinho,10800000.0,Defensive Midfield,manchester-city
+19,Douglas Luiz,2250000.0,Defensive Midfield,manchester-city
+20,Luke Brattan,450000.0,Defensive Midfield,manchester-city
+21,Claudio Gomes,0.0,Defensive Midfield,manchester-city
+22,Ilkay Gündogan,45000000.0,Central Midfield,manchester-city
+23,Phil Foden,22500000.0,Central Midfield,manchester-city
+24,Fabian Delph,13500000.0,Central Midfield,manchester-city
+25,Aleix García,2700000.0,Central Midfield,manchester-city
+26,Mix Diskerud,900000.0,Central Midfield,manchester-city
+27,Anthony Cáceres,315000.0,Central Midfield,manchester-city
+28,Adrián Bernabé,0.0,Central Midfield,manchester-city
+29,Taylor Richards,0.0,Central Midfield,manchester-city
+30,Luke Bolton,0.0,Right Midfield,manchester-city
+31,Kevin De Bruyne,117000000.0,Attacking Midfield,manchester-city
+32,Bernardo Silva,90000000.0,Attacking Midfield,manchester-city
+33,David Silva,18000000.0,Attacking Midfield,manchester-city
+34,Brahim Díaz,15300000.0,Attacking Midfield,manchester-city
+35,Luka Ilic,900000.0,Attacking Midfield,manchester-city
+36,Felix Nmecha,0.0,Attacking Midfield,manchester-city
+37,Raheem Sterling,126000000.0,Left Winger,manchester-city
+38,Leroy Sané,90000000.0,Left Winger,manchester-city
+39,Jack Harrison,3600000.0,Left Winger,manchester-city
+40,Riyad Mahrez,54000000.0,Right Winger,manchester-city
+41,Patrick Roberts,4500000.0,Right Winger,manchester-city
+42,Marlos Moreno,630000.0,Right Winger,manchester-city
+43,Ian Poveda,0.0,Right Winger,manchester-city
+44,Gabriel Jesus,63000000.0,Centre-Forward,manchester-city
+45,Sergio Agüero,58500000.0,Centre-Forward,manchester-city
+0,Kepa Arrizabalaga,54000000.0,Goalkeeper,fc-chelsea
+1,Willy Caballero,900000.0,Goalkeeper,fc-chelsea
+2,Eduardo,675000.0,Goalkeeper,fc-chelsea
+3,Jamal Blackman,450000.0,Goalkeeper,fc-chelsea
+4,Rob Green,225000.0,Goalkeeper,fc-chelsea
+5,Jamie Cumming,0.0,Goalkeeper,fc-chelsea
+6,Marcin Bulka,0.0,Goalkeeper,fc-chelsea
+7,Antonio Rüdiger,45000000.0,Centre-Back,fc-chelsea
+8,Andreas Christensen,27000000.0,Centre-Back,fc-chelsea
+9,Kurt Zouma,22500000.0,Centre-Back,fc-chelsea
+10,David Luiz,18000000.0,Centre-Back,fc-chelsea
+11,Ethan Ampadu,9000000.0,Centre-Back,fc-chelsea
+12,Gary Cahill,7200000.0,Centre-Back,fc-chelsea
+13,Kenneth Omeruo,4500000.0,Centre-Back,fc-chelsea
+14,Tomas Kalas,3600000.0,Centre-Back,fc-chelsea
+15,Michael Hector,2700000.0,Centre-Back,fc-chelsea
+16,Matt Miazga,2700000.0,Centre-Back,fc-chelsea
+17,Marc Guehi,0.0,Centre-Back,fc-chelsea
+18,Marcos Alonso,36000000.0,Left-Back,fc-chelsea
+19,Emerson,13500000.0,Left-Back,fc-chelsea
+20,Abdul-Rahman Baba,4500000.0,Left-Back,fc-chelsea
+21,César Azpilicueta,31500000.0,Right-Back,fc-chelsea
+22,Davide Zappacosta,13500000.0,Right-Back,fc-chelsea
+23,Ola Aina,9000000.0,Right-Back,fc-chelsea
+24,Todd Kane,900000.0,Right-Back,fc-chelsea
+25,N'Golo Kanté,90000000.0,Defensive Midfield,fc-chelsea
+26,Jorginho,58500000.0,Defensive Midfield,fc-chelsea
+27,Tiemoué Bakayoko,31500000.0,Defensive Midfield,fc-chelsea
+28,Mateo Kovacic,31500000.0,Central Midfield,fc-chelsea
+29,Ross Barkley,27000000.0,Central Midfield,fc-chelsea
+30,Ruben Loftus-Cheek,27000000.0,Central Midfield,fc-chelsea
+31,Cesc Fàbregas,13500000.0,Central Midfield,fc-chelsea
+32,Mario Pasalic,9000000.0,Central Midfield,fc-chelsea
+33,Marco van Ginkel,9000000.0,Central Midfield,fc-chelsea
+34,Danny Drinkwater,7200000.0,Central Midfield,fc-chelsea
+35,Lewis Baker,3600000.0,Central Midfield,fc-chelsea
+36,Conor Gallagher,0.0,Central Midfield,fc-chelsea
+37,George McEachran,0.0,Central Midfield,fc-chelsea
+38,Victor Moses,9900000.0,Right Midfield,fc-chelsea
+39,Danilo Pantic,2480000.0,Attacking Midfield,fc-chelsea
+40,Charly Musonda Jr.,1800000.0,Attacking Midfield,fc-chelsea
+41,Nathan,810000.0,Attacking Midfield,fc-chelsea
+42,Eden Hazard,135000000.0,Left Winger,fc-chelsea
+43,Kenedy,9000000.0,Left Winger,fc-chelsea
+44,Christian Pulisic,54000000.0,Right Winger,fc-chelsea
+45,Willian,36000000.0,Right Winger,fc-chelsea
+46,Callum Hudson-Odoi,31500000.0,Right Winger,fc-chelsea
+47,Pedro,18000000.0,Right Winger,fc-chelsea
+48,Lucas Piazon,1350000.0,Right Winger,fc-chelsea
+49,Álvaro Morata,45000000.0,Centre-Forward,fc-chelsea
+50,Gonzalo Higuaín,31500000.0,Centre-Forward,fc-chelsea
+51,Michy Batshuayi,27000000.0,Centre-Forward,fc-chelsea
+52,Tammy Abraham,18000000.0,Centre-Forward,fc-chelsea
+53,Olivier Giroud,13500000.0,Centre-Forward,fc-chelsea
+0,Alisson,72000000.0,Goalkeeper,fc-liverpool
+1,Simon Mignolet,7200000.0,Goalkeeper,fc-liverpool
+2,Loris Karius,4500000.0,Goalkeeper,fc-liverpool
+3,Ádám Bogdán,450000.0,Goalkeeper,fc-liverpool
+4,Kamil Grabara,360000.0,Goalkeeper,fc-liverpool
+5,Caoimhin Kelleher,0.0,Goalkeeper,fc-liverpool
+6,Virgil van Dijk,81000000.0,Centre-Back,fc-liverpool
+7,Joe Gomez,31500000.0,Centre-Back,fc-liverpool
+8,Joel Matip,27000000.0,Centre-Back,fc-liverpool
+9,Dejan Lovren,18000000.0,Centre-Back,fc-liverpool
+10,Andrew Robertson,54000000.0,Left-Back,fc-liverpool
+11,Alberto Moreno,8100000.0,Left-Back,fc-liverpool
+12,Trent Alexander-Arnold,72000000.0,Right-Back,fc-liverpool
+13,Nathaniel Clyne,10800000.0,Right-Back,fc-liverpool
+14,Connor Randall,450000.0,Right-Back,fc-liverpool
+15,Ki-Jana Hoever,0.0,Right-Back,fc-liverpool
+16,Fabinho,45000000.0,Defensive Midfield,fc-liverpool
+17,Marko Grujic,18000000.0,Defensive Midfield,fc-liverpool
+18,Naby Keïta,54000000.0,Central Midfield,fc-liverpool
+19,Georginio Wijnaldum,45000000.0,Central Midfield,fc-liverpool
+20,Jordan Henderson,31500000.0,Central Midfield,fc-liverpool
+21,Alex Oxlade-Chamberlain,31500000.0,Central Midfield,fc-liverpool
+22,James Milner,13500000.0,Central Midfield,fc-liverpool
+23,Curtis Jones,0.0,Central Midfield,fc-liverpool
+24,Adam Lallana,13500000.0,Attacking Midfield,fc-liverpool
+25,Ben Woodburn,4500000.0,Attacking Midfield,fc-liverpool
+26,Isaac Christie-Davies,0.0,Attacking Midfield,fc-liverpool
+27,Sadio Mané,108000000.0,Left Winger,fc-liverpool
+28,Rafael Camacho,0.0,Left Winger,fc-liverpool
+29,Mohamed Salah,135000000.0,Right Winger,fc-liverpool
+30,Xherdan Shaqiri,22500000.0,Right Winger,fc-liverpool
+31,Harry Wilson,10800000.0,Right Winger,fc-liverpool
+32,Sheyi Ojo,1800000.0,Right Winger,fc-liverpool
+33,Roberto Firmino,72000000.0,Centre-Forward,fc-liverpool
+34,Divock Origi,18000000.0,Centre-Forward,fc-liverpool
+35,Dominic Solanke,16200000.0,Centre-Forward,fc-liverpool
+36,Danny Ings,13500000.0,Centre-Forward,fc-liverpool
+37,Daniel Sturridge,13500000.0,Centre-Forward,fc-liverpool
+38,Rhian Brewster,0.0,Centre-Forward,fc-liverpool
+0,David de Gea,58500000.0,Goalkeeper,manchester-united
+1,Sergio Romero,3150000.0,Goalkeeper,manchester-united
+2,Joel Pereira,765000.0,Goalkeeper,manchester-united
+3,Lee Grant,675000.0,Goalkeeper,manchester-united
+4,Victor Lindelöf,31500000.0,Centre-Back,manchester-united
+5,Eric Bailly,22500000.0,Centre-Back,manchester-united
+6,Phil Jones,18000000.0,Centre-Back,manchester-united
+7,Chris Smalling,18000000.0,Centre-Back,manchester-united
+8,Marcos Rojo,10800000.0,Centre-Back,manchester-united
+9,Axel Tuanzebe,6300000.0,Centre-Back,manchester-united
+10,Luke Shaw,27000000.0,Left-Back,manchester-united
+11,Ashley Young,4500000.0,Left-Back,manchester-united
+12,Cameron Borthwick-Jackson,900000.0,Left-Back,manchester-united
+13,Brandon Williams,0.0,Left-Back,manchester-united
+14,Diogo Dalot,18000000.0,Right-Back,manchester-united
+15,Matteo Darmian,9000000.0,Right-Back,manchester-united
+16,Timothy Fosu-Mensah,6300000.0,Right-Back,manchester-united
+17,Antonio Valencia,4500000.0,Right-Back,manchester-united
+18,Nemanja Matic,27000000.0,Defensive Midfield,manchester-united
+19,James Garner,0.0,Defensive Midfield,manchester-united
+20,Paul Pogba,90000000.0,Central Midfield,manchester-united
+21,Fred,27000000.0,Central Midfield,manchester-united
+22,Ander Herrera,22500000.0,Central Midfield,manchester-united
+23,Marouane Fellaini,10800000.0,Central Midfield,manchester-united
+24,Scott McTominay,10800000.0,Central Midfield,manchester-united
+25,Jesse Lingard,36000000.0,Attacking Midfield,manchester-united
+26,Juan Mata,18000000.0,Attacking Midfield,manchester-united
+27,Andreas Pereira,9000000.0,Attacking Midfield,manchester-united
+28,Angel Gomes,0.0,Attacking Midfield,manchester-united
+29,Marcus Rashford,72000000.0,Left Winger,manchester-united
+30,Tahith Chong,0.0,Right Winger,manchester-united
+31,Mason Greenwood,0.0,Right Winger,manchester-united
+32,Romelu Lukaku,67500000.0,Centre-Forward,manchester-united
+33,Anthony Martial,54000000.0,Centre-Forward,manchester-united
+34,Alexis Sánchez,31500000.0,Centre-Forward,manchester-united
+35,James Wilson,1350000.0,Centre-Forward,manchester-united
+0,Hugo Lloris,22500000.0,Goalkeeper,tottenham-hotspur
+1,Paulo Gazzaniga,1800000.0,Goalkeeper,tottenham-hotspur
+2,Michel Vorm,900000.0,Goalkeeper,tottenham-hotspur
+3,Alfie Whiteman,0.0,Goalkeeper,tottenham-hotspur
+4,Davinson Sánchez,49500000.0,Centre-Back,tottenham-hotspur
+5,Toby Alderweireld,36000000.0,Centre-Back,tottenham-hotspur
+6,Eric Dier,36000000.0,Centre-Back,tottenham-hotspur
+7,Jan Vertonghen,25200000.0,Centre-Back,tottenham-hotspur
+8,Juan Foyth,13500000.0,Centre-Back,tottenham-hotspur
+9,Cameron Carter-Vickers,1350000.0,Centre-Back,tottenham-hotspur
+10,Danny Rose,22500000.0,Left-Back,tottenham-hotspur
+11,Ben Davies,22500000.0,Left-Back,tottenham-hotspur
+12,Kieran Trippier,31500000.0,Right-Back,tottenham-hotspur
+13,Serge Aurier,16200000.0,Right-Back,tottenham-hotspur
+14,Kyle Walker-Peters,3150000.0,Right-Back,tottenham-hotspur
+15,Timothy Eyoma,0.0,Right-Back,tottenham-hotspur
+16,Harry Winks,22500000.0,Defensive Midfield,tottenham-hotspur
+17,Victor Wanyama,18000000.0,Defensive Midfield,tottenham-hotspur
+18,Oliver Skipp,4500000.0,Defensive Midfield,tottenham-hotspur
+19,Luke Amos,90000.0,Defensive Midfield,tottenham-hotspur
+20,George Marsh,0.0,Defensive Midfield,tottenham-hotspur
+21,Moussa Sissoko,22500000.0,Central Midfield,tottenham-hotspur
+22,Mousa Dembélé,10800000.0,Central Midfield,tottenham-hotspur
+23,Josh Onomah,2700000.0,Central Midfield,tottenham-hotspur
+24,Christian Eriksen,90000000.0,Attacking Midfield,tottenham-hotspur
+25,Dele Alli,81000000.0,Attacking Midfield,tottenham-hotspur
+26,Heung-min Son,72000000.0,Left Winger,tottenham-hotspur
+27,Georges-Kevin N'Koudou,4500000.0,Left Winger,tottenham-hotspur
+28,Lucas Moura,36000000.0,Right Winger,tottenham-hotspur
+29,Erik Lamela,16200000.0,Right Winger,tottenham-hotspur
+30,Harry Kane,135000000.0,Centre-Forward,tottenham-hotspur
+31,Vincent Janssen,7200000.0,Centre-Forward,tottenham-hotspur
+32,Fernando Llorente,3150000.0,Centre-Forward,tottenham-hotspur
+33,Kazaiah Sterling,0.0,Centre-Forward,tottenham-hotspur
+0,Bernd Leno,27000000.0,Goalkeeper,fc-arsenal
+1,David Ospina,3600000.0,Goalkeeper,fc-arsenal
+2,Petr Cech,2250000.0,Goalkeeper,fc-arsenal
+3,Emiliano Martínez,1800000.0,Goalkeeper,fc-arsenal
+4,Matt Macey,225000.0,Goalkeeper,fc-arsenal
+5,Dejan Iliev,0.0,Goalkeeper,fc-arsenal
+6,Shkodran Mustafi,22500000.0,Centre-Back,fc-arsenal
+7,Sokratis Papastathopoulos,18000000.0,Centre-Back,fc-arsenal
+8,Rob Holding,10800000.0,Centre-Back,fc-arsenal
+9,Laurent Koscielny,7200000.0,Centre-Back,fc-arsenal
+10,Konstantinos Mavropanos,2700000.0,Centre-Back,fc-arsenal
+11,Julio Pleguezuelo,270000.0,Centre-Back,fc-arsenal
+12,Zech Medley,0.0,Centre-Back,fc-arsenal
+13,Sead Kolasinac,18000000.0,Left-Back,fc-arsenal
+14,Nacho Monreal,7200000.0,Left-Back,fc-arsenal
+15,Héctor Bellerín,36000000.0,Right-Back,fc-arsenal
+16,Calum Chambers,12600000.0,Right-Back,fc-arsenal
+17,Carl Jenkinson,1800000.0,Right-Back,fc-arsenal
+18,Stephan Lichtsteiner,1350000.0,Right-Back,fc-arsenal
+19,Jordi Osei-Tutu,0.0,Right-Back,fc-arsenal
+20,Lucas Torreira,49500000.0,Defensive Midfield,fc-arsenal
+21,Granit Xhaka,40500000.0,Defensive Midfield,fc-arsenal
+22,Mohamed Elneny,7200000.0,Defensive Midfield,fc-arsenal
+23,Krystian Bielik,1800000.0,Defensive Midfield,fc-arsenal
+24,Charlie Gilmour,0.0,Defensive Midfield,fc-arsenal
+25,Aaron Ramsey,36000000.0,Central Midfield,fc-arsenal
+26,Mattéo Guendouzi,31500000.0,Central Midfield,fc-arsenal
+27,Joe Willock,0.0,Central Midfield,fc-arsenal
+28,Ainsley Maitland-Niles,10800000.0,Right Midfield,fc-arsenal
+29,Bukayo Saka,0.0,Left Midfield,fc-arsenal
+30,Henrikh Mkhitaryan,22500000.0,Attacking Midfield,fc-arsenal
+31,Mesut Özil,22500000.0,Attacking Midfield,fc-arsenal
+32,Denis Suárez,10800000.0,Attacking Midfield,fc-arsenal
+33,Emile Smith Rowe,3600000.0,Attacking Midfield,fc-arsenal
+34,Alex Iwobi,22500000.0,Left Winger,fc-arsenal
+35,Reiss Nelson,15300000.0,Right Winger,fc-arsenal
+36,Takuma Asano,1350000.0,Right Winger,fc-arsenal
+37,Alexandre Lacazette,63000000.0,Centre-Forward,fc-arsenal
+38,Pierre-Emerick Aubameyang,63000000.0,Centre-Forward,fc-arsenal
+39,Danny Welbeck,10800000.0,Centre-Forward,fc-arsenal
+40,Eddie Nketiah,7200000.0,Centre-Forward,fc-arsenal
+41,Tyreece John-Jules,0.0,Centre-Forward,fc-arsenal
+0,Jordan Pickford,36000000.0,Goalkeeper,fc-everton
+1,Maarten Stekelenburg,900000.0,Goalkeeper,fc-everton
+2,João Virgínia,450000.0,Goalkeeper,fc-everton
+3,Michael Keane,27000000.0,Centre-Back,fc-everton
+4,Kurt Zouma,22500000.0,Centre-Back,fc-everton
+5,Yerry Mina,22500000.0,Centre-Back,fc-everton
+6,Mason Holgate,6300000.0,Centre-Back,fc-everton
+7,Ashley Williams,1800000.0,Centre-Back,fc-everton
+8,Phil Jagielka,900000.0,Centre-Back,fc-everton
+9,Matthew Pennington,900000.0,Centre-Back,fc-everton
+10,Tyias Browning,765000.0,Centre-Back,fc-everton
+11,Lucas Digne,27000000.0,Left-Back,fc-everton
+12,Leighton Baines,3150000.0,Left-Back,fc-everton
+13,Brendan Galloway,1350000.0,Left-Back,fc-everton
+14,Luke Garbutt,675000.0,Left-Back,fc-everton
+15,Seamus Coleman,13500000.0,Right-Back,fc-everton
+16,Jonjoe Kenny,4500000.0,Right-Back,fc-everton
+17,Cuco Martina,1350000.0,Right-Back,fc-everton
+18,Idrissa Gueye,22500000.0,Defensive Midfield,fc-everton
+19,Morgan Schneiderlin,13500000.0,Defensive Midfield,fc-everton
+20,Muhamed Besic,4500000.0,Defensive Midfield,fc-everton
+21,André Gomes,25200000.0,Central Midfield,fc-everton
+22,Tom Davies,13500000.0,Central Midfield,fc-everton
+23,James McCarthy,4500000.0,Central Midfield,fc-everton
+24,Beni Baningime,1800000.0,Central Midfield,fc-everton
+25,Gylfi Sigurdsson,31500000.0,Attacking Midfield,fc-everton
+26,Nikola Vlasic,18000000.0,Attacking Midfield,fc-everton
+27,Kieran Dowell,2700000.0,Attacking Midfield,fc-everton
+28,Bernard,18000000.0,Left Winger,fc-everton
+29,Ademola Lookman,18000000.0,Left Winger,fc-everton
+30,Henry Onyekuru,11700000.0,Left Winger,fc-everton
+31,Yannick Bolasie,9900000.0,Left Winger,fc-everton
+32,Theo Walcott,16200000.0,Right Winger,fc-everton
+33,Kevin Mirallas,4500000.0,Right Winger,fc-everton
+34,Shani Tarashaj,450000.0,Second Striker,fc-everton
+35,Richarlison,45000000.0,Centre-Forward,fc-everton
+36,Dominic Calvert-Lewin,18000000.0,Centre-Forward,fc-everton
+37,Cenk Tosun,16200000.0,Centre-Forward,fc-everton
+38,Oumar Niasse,5400000.0,Centre-Forward,fc-everton
+39,Sandro Ramírez,3600000.0,Centre-Forward,fc-everton
+0,Kasper Schmeichel,10800000.0,Goalkeeper,leicester-city
+1,Danny Ward,7200000.0,Goalkeeper,leicester-city
+2,Eldin Jakupovic,675000.0,Goalkeeper,leicester-city
+3,Harry Maguire,45000000.0,Centre-Back,leicester-city
+4,Caglar Söyüncü,13500000.0,Centre-Back,leicester-city
+5,Filip Benkovic,9900000.0,Centre-Back,leicester-city
+6,Jonny Evans,9000000.0,Centre-Back,leicester-city
+7,Daniel Amartey,6300000.0,Centre-Back,leicester-city
+8,Wes Morgan,1800000.0,Centre-Back,leicester-city
+9,Josh Knight,0.0,Centre-Back,leicester-city
+10,Ben Chilwell,31500000.0,Left-Back,leicester-city
+11,Christian Fuchs,2700000.0,Left-Back,leicester-city
+12,Callum Elder,225000.0,Left-Back,leicester-city
+13,Ricardo Pereira,22500000.0,Right-Back,leicester-city
+14,Danny Simpson,3150000.0,Right-Back,leicester-city
+15,Wilfred Ndidi,31500000.0,Defensive Midfield,leicester-city
+16,Nampalys Mendy,7200000.0,Defensive Midfield,leicester-city
+17,Youri Tielemans,34200000.0,Central Midfield,leicester-city
+18,Adrien Silva,11700000.0,Central Midfield,leicester-city
+19,Vicente Iborra,8100000.0,Central Midfield,leicester-city
+20,Hamza Choudhury,4500000.0,Central Midfield,leicester-city
+21,Andy King,2250000.0,Central Midfield,leicester-city
+22,Matty James,1350000.0,Central Midfield,leicester-city
+23,Marc Albrighton,9000000.0,Right Midfield,leicester-city
+24,Harvey Barnes,10800000.0,Left Midfield,leicester-city
+25,James Maddison,36000000.0,Attacking Midfield,leicester-city
+26,Bartosz Kapustka,2250000.0,Attacking Midfield,leicester-city
+27,George Thomas,450000.0,Attacking Midfield,leicester-city
+28,Khanya Leshabela,90000.0,Attacking Midfield,leicester-city
+29,Demarai Gray,18000000.0,Left Winger,leicester-city
+30,Rachid Ghezzal,7200000.0,Right Winger,leicester-city
+31,Fousseni Diabaté,2700000.0,Right Winger,leicester-city
+32,Jamie Vardy,18000000.0,Centre-Forward,leicester-city
+33,Kelechi Iheanacho,10800000.0,Centre-Forward,leicester-city
+34,Islam Slimani,4500000.0,Centre-Forward,leicester-city
+35,Shinji Okazaki,3600000.0,Centre-Forward,leicester-city
+36,Leonardo Ulloa,2250000.0,Centre-Forward,leicester-city
+0,Lukasz Fabianski,4500000.0,Goalkeeper,west-ham-united
+1,Adrián,3150000.0,Goalkeeper,west-ham-united
+2,Issa Diop,31500000.0,Centre-Back,west-ham-united
+3,Fabián Balbuena,10800000.0,Centre-Back,west-ham-united
+4,Angelo Ogbonna,7200000.0,Centre-Back,west-ham-united
+5,Winston Reid,4500000.0,Centre-Back,west-ham-united
+6,Reece Oxford,3600000.0,Centre-Back,west-ham-united
+7,Aaron Cresswell,9000000.0,Left-Back,west-ham-united
+8,Arthur Masuaku,6300000.0,Left-Back,west-ham-united
+9,Ryan Fredericks,4500000.0,Right-Back,west-ham-united
+10,Sam Byram,3150000.0,Right-Back,west-ham-united
+11,Pablo Zabaleta,3150000.0,Right-Back,west-ham-united
+12,Ben Johnson,0.0,Right-Back,west-ham-united
+13,Declan Rice,40500000.0,Defensive Midfield,west-ham-united
+14,Carlos Sánchez,1350000.0,Defensive Midfield,west-ham-united
+15,Conor Coventry,0.0,Defensive Midfield,west-ham-united
+16,Jack Wilshere,9000000.0,Central Midfield,west-ham-united
+17,Edimilson Fernandes,7200000.0,Central Midfield,west-ham-united
+18,Pedro Obiang,6300000.0,Central Midfield,west-ham-united
+19,Mark Noble,6300000.0,Central Midfield,west-ham-united
+20,Josh Cullen,900000.0,Central Midfield,west-ham-united
+21,Moses Makasi,0.0,Central Midfield,west-ham-united
+22,Manuel Lanzini,18000000.0,Attacking Midfield,west-ham-united
+23,Samir Nasri,4500000.0,Attacking Midfield,west-ham-united
+24,Joe Powell,0.0,Attacking Midfield,west-ham-united
+25,Felipe Anderson,36000000.0,Left Winger,west-ham-united
+26,Grady Diangana,4500000.0,Left Winger,west-ham-united
+27,Nathan Holland,0.0,Left Winger,west-ham-united
+28,Andriy Yarmolenko,18000000.0,Right Winger,west-ham-united
+29,Robert Snodgrass,6300000.0,Right Winger,west-ham-united
+30,Xande Silva,900000.0,Right Winger,west-ham-united
+31,Marko Arnautovic,31500000.0,Centre-Forward,west-ham-united
+32,Michail Antonio,13500000.0,Centre-Forward,west-ham-united
+33,Chicharito,10800000.0,Centre-Forward,west-ham-united
+34,Andy Carroll,7200000.0,Centre-Forward,west-ham-united
+35,Jordan Hugill,5400000.0,Centre-Forward,west-ham-united
+36,Lucas Pérez,3600000.0,Centre-Forward,west-ham-united
+0,Angus Gunn,9000000.0,Goalkeeper,fc-southampton
+1,Fraser Forster,7200000.0,Goalkeeper,fc-southampton
+2,Alex McCarthy,4500000.0,Goalkeeper,fc-southampton
+3,Harry Lewis,180000.0,Goalkeeper,fc-southampton
+4,Jack Rose,90000.0,Goalkeeper,fc-southampton
+5,Jannik Vestergaard,18000000.0,Centre-Back,fc-southampton
+6,Jan Bednarek,13500000.0,Centre-Back,fc-southampton
+7,Wesley Hoedt,10800000.0,Centre-Back,fc-southampton
+8,Jack Stephens,7200000.0,Centre-Back,fc-southampton
+9,Maya Yoshida,6300000.0,Centre-Back,fc-southampton
+10,Alfie Jones,90000.0,Centre-Back,fc-southampton
+11,Ryan Bertrand,13500000.0,Left-Back,fc-southampton
+12,Matt Targett,6300000.0,Left-Back,fc-southampton
+13,Sam McQueen,900000.0,Left-Back,fc-southampton
+14,Cédric Soares,10800000.0,Right-Back,fc-southampton
+15,Yan Valery,6300000.0,Right-Back,fc-southampton
+16,Kayne Ramsay,0.0,Right-Back,fc-southampton
+17,Mario Lemina,13500000.0,Defensive Midfield,fc-southampton
+18,Oriol Romeu,9000000.0,Defensive Midfield,fc-southampton
+19,Jordy Clasie,4950000.0,Defensive Midfield,fc-southampton
+20,Harrison Reed,1800000.0,Defensive Midfield,fc-southampton
+21,James Ward-Prowse,16200000.0,Central Midfield,fc-southampton
+22,Pierre-Emile Höjbjerg,13500000.0,Central Midfield,fc-southampton
+23,Stuart Armstrong,7200000.0,Central Midfield,fc-southampton
+24,Steven Davis,1800000.0,Central Midfield,fc-southampton
+25,Callum Slattery,0.0,Central Midfield,fc-southampton
+26,Tyreke Johnson,0.0,Left Midfield,fc-southampton
+27,Sofiane Boufal,10800000.0,Attacking Midfield,fc-southampton
+28,Jake Hesketh,0.0,Attacking Midfield,fc-southampton
+29,Nathan Redmond,18000000.0,Left Winger,fc-southampton
+30,Mohamed Elyounoussi,13500000.0,Left Winger,fc-southampton
+31,Josh Sims,1800000.0,Right Winger,fc-southampton
+32,Danny Ings,13500000.0,Centre-Forward,fc-southampton
+33,Manolo Gabbiadini,10800000.0,Centre-Forward,fc-southampton
+34,Charlie Austin,7200000.0,Centre-Forward,fc-southampton
+35,Guido Carrillo,6750000.0,Centre-Forward,fc-southampton
+36,Shane Long,6300000.0,Centre-Forward,fc-southampton
+37,Sam Gallagher,2700000.0,Centre-Forward,fc-southampton
+38,Michael Obafemi,900000.0,Centre-Forward,fc-southampton
+39,Marcus Barnes,0.0,Centre-Forward,fc-southampton
+0,Wayne Hennessey,4500000.0,Goalkeeper,crystal-palace
+1,Vicente Guaita,4500000.0,Goalkeeper,crystal-palace
+2,Julián Speroni,225000.0,Goalkeeper,crystal-palace
+3,Dion Henry,45000.0,Goalkeeper,crystal-palace
+4,Joe Tupper,0.0,Goalkeeper,crystal-palace
+5,Mamadou Sakho,13500000.0,Centre-Back,crystal-palace
+6,James Tomkins,7200000.0,Centre-Back,crystal-palace
+7,Scott Dann,3600000.0,Centre-Back,crystal-palace
+8,Ryan Inniss,135000.0,Centre-Back,crystal-palace
+9,Sam Woods,0.0,Centre-Back,crystal-palace
+10,Patrick van Aanholt,9000000.0,Left-Back,crystal-palace
+11,Pape Souaré,1800000.0,Left-Back,crystal-palace
+12,Aaron Wan-Bissaka,31500000.0,Right-Back,crystal-palace
+13,Joel Ward,3600000.0,Right-Back,crystal-palace
+14,Martin Kelly,2700000.0,Right-Back,crystal-palace
+15,Luka Milivojevic,18000000.0,Defensive Midfield,crystal-palace
+16,Cheikhou Kouyaté,9000000.0,Defensive Midfield,crystal-palace
+17,Jairo Riedewald,4500000.0,Defensive Midfield,crystal-palace
+18,James McArthur,6300000.0,Central Midfield,crystal-palace
+19,Jason Puncheon,2700000.0,Central Midfield,crystal-palace
+20,Luke Dreher,0.0,Central Midfield,crystal-palace
+21,Nya Kirby,0.0,Central Midfield,crystal-palace
+22,Jeffrey Schlupp,9000000.0,Left Midfield,crystal-palace
+23,Max Meyer,13500000.0,Attacking Midfield,crystal-palace
+24,Jonathan Williams,900000.0,Attacking Midfield,crystal-palace
+25,Giovanni McGregor,0.0,Attacking Midfield,crystal-palace
+26,Wilfried Zaha,40500000.0,Left Winger,crystal-palace
+27,Bakary Sako,3600000.0,Left Winger,crystal-palace
+28,Sullay Kaikai,315000.0,Left Winger,crystal-palace
+29,Andros Townsend,13500000.0,Right Winger,crystal-palace
+30,Jason Lokilo,180000.0,Right Winger,crystal-palace
+31,Michy Batshuayi,27000000.0,Centre-Forward,crystal-palace
+32,Christian Benteke,13500000.0,Centre-Forward,crystal-palace
+33,Jordan Ayew,7200000.0,Centre-Forward,crystal-palace
+34,Alexander Sörloth,5400000.0,Centre-Forward,crystal-palace
+35,Connor Wickham,2700000.0,Centre-Forward,crystal-palace
+0,Sergio Rico,10800000.0,Goalkeeper,fc-fulham
+1,Marcus Bettinelli,3600000.0,Goalkeeper,fc-fulham
+2,Fabri,3600000.0,Goalkeeper,fc-fulham
+3,Alfie Mawson,13500000.0,Centre-Back,fc-fulham
+4,Maxime Le Marchand,4500000.0,Centre-Back,fc-fulham
+5,Tim Ream,3600000.0,Centre-Back,fc-fulham
+6,Havard Nordtveit,3600000.0,Centre-Back,fc-fulham
+7,Marcelo Djaló,450000.0,Centre-Back,fc-fulham
+8,Joe Bryan,5400000.0,Left-Back,fc-fulham
+9,Calum Chambers,12600000.0,Right-Back,fc-fulham
+10,Timothy Fosu-Mensah,6300000.0,Right-Back,fc-fulham
+11,Cyrus Christie,3150000.0,Right-Back,fc-fulham
+12,Denis Odoi,2250000.0,Right-Back,fc-fulham
+13,Steven Sessegnon,0.0,Right-Back,fc-fulham
+14,André Zambo Anguissa,22500000.0,Defensive Midfield,fc-fulham
+15,Kevin McDonald,2700000.0,Defensive Midfield,fc-fulham
+16,Ibrahima Cissé,1350000.0,Defensive Midfield,fc-fulham
+17,Jean Michaël Seri,22500000.0,Central Midfield,fc-fulham
+18,Stefan Johansen,3600000.0,Central Midfield,fc-fulham
+19,Luca de la Torre,450000.0,Central Midfield,fc-fulham
+20,Matt O'Riley,0.0,Central Midfield,fc-fulham
+21,Ryan Sessegnon,31500000.0,Left Midfield,fc-fulham
+22,Tom Cairney,13500000.0,Attacking Midfield,fc-fulham
+23,André Schürrle,10800000.0,Left Winger,fc-fulham
+24,Ryan Babel,4500000.0,Left Winger,fc-fulham
+25,Neeskens Kebano,2700000.0,Left Winger,fc-fulham
+26,Floyd Ayité,2250000.0,Left Winger,fc-fulham
+27,Lazar Markovic,3600000.0,Right Winger,fc-fulham
+28,Harvey Elliott,0.0,Right Winger,fc-fulham
+29,Luciano Vietto,6300000.0,Second Striker,fc-fulham
+30,Aleksandar Mitrovic,22500000.0,Centre-Forward,fc-fulham
+31,Aboubakar Kamara,2480000.0,Centre-Forward,fc-fulham
+32,Rui Fonte,2250000.0,Centre-Forward,fc-fulham
+0,Martin Dubravka,6300000.0,Goalkeeper,newcastle-united
+1,Karl Darlow,3150000.0,Goalkeeper,newcastle-united
+2,Rob Elliot,900000.0,Goalkeeper,newcastle-united
+3,Freddie Woodman,450000.0,Goalkeeper,newcastle-united
+4,Nathan Harker,0.0,Goalkeeper,newcastle-united
+5,Jamaal Lascelles,13500000.0,Centre-Back,newcastle-united
+6,Fabian Schär,7200000.0,Centre-Back,newcastle-united
+7,Florian Lejeune,7200000.0,Centre-Back,newcastle-united
+8,Federico Fernández,6300000.0,Centre-Back,newcastle-united
+9,Ciaran Clark,5400000.0,Centre-Back,newcastle-united
+10,Lewis Cass,0.0,Centre-Back,newcastle-united
+11,Kell Watts,0.0,Centre-Back,newcastle-united
+12,Matt Ritchie,10800000.0,Left-Back,newcastle-united
+13,Antonio Barreca,6300000.0,Left-Back,newcastle-united
+14,Paul Dummett,4500000.0,Left-Back,newcastle-united
+15,Achraf Lazaar,900000.0,Left-Back,newcastle-united
+16,DeAndre Yedlin,7200000.0,Right-Back,newcastle-united
+17,Javier Manquillo,4500000.0,Right-Back,newcastle-united
+18,Jamie Sterry,68000.0,Right-Back,newcastle-united
+19,Isaac Hayden,7200000.0,Defensive Midfield,newcastle-united
+20,Sung-yueng Ki,5400000.0,Defensive Midfield,newcastle-united
+21,Jack Colback,2700000.0,Defensive Midfield,newcastle-united
+22,Jonjo Shelvey,13500000.0,Central Midfield,newcastle-united
+23,Sean Longstaff,6300000.0,Central Midfield,newcastle-united
+24,Mohamed Diamé,4500000.0,Central Midfield,newcastle-united
+25,Miguel Almirón,18000000.0,Attacking Midfield,newcastle-united
+26,Henri Saivet,900000.0,Attacking Midfield,newcastle-united
+27,Kenedy,9000000.0,Left Winger,newcastle-united
+28,Christian Atsu,5400000.0,Left Winger,newcastle-united
+29,Rolando Aarons,450000.0,Left Winger,newcastle-united
+30,Jacob Murphy,5400000.0,Right Winger,newcastle-united
+31,Callum Roberts,68000.0,Right Winger,newcastle-united
+32,Ayoze Pérez,18000000.0,Second Striker,newcastle-united
+33,Dwight Gayle,13500000.0,Centre-Forward,newcastle-united
+34,Salomón Rondón,13500000.0,Centre-Forward,newcastle-united
+35,Yoshinori Muto,8100000.0,Centre-Forward,newcastle-united
+36,Joselu,3600000.0,Centre-Forward,newcastle-united
+0,Nick Pope,9000000.0,Goalkeeper,fc-burnley
+1,Joe Hart,5400000.0,Goalkeeper,fc-burnley
+2,Tom Heaton,2700000.0,Goalkeeper,fc-burnley
+3,Anders Lindegaard,450000.0,Goalkeeper,fc-burnley
+4,Adam Legzdins,225000.0,Goalkeeper,fc-burnley
+5,James Tarkowski,16200000.0,Centre-Back,fc-burnley
+6,Ben Mee,9000000.0,Centre-Back,fc-burnley
+7,Ben Gibson,9000000.0,Centre-Back,fc-burnley
+8,Kevin Long,2250000.0,Centre-Back,fc-burnley
+9,Charlie Taylor,6300000.0,Left-Back,fc-burnley
+10,Stephen Ward,1800000.0,Left-Back,fc-burnley
+11,Ali Koiki,0.0,Left-Back,fc-burnley
+12,Anthony Driscoll-Glennon,0.0,Left-Back,fc-burnley
+13,Matthew Lowton,4500000.0,Right-Back,fc-burnley
+14,Phil Bardsley,1350000.0,Right-Back,fc-burnley
+15,Jack Cork,13500000.0,Defensive Midfield,fc-burnley
+16,Ashley Westwood,6300000.0,Defensive Midfield,fc-burnley
+17,Steven Defour,4500000.0,Defensive Midfield,fc-burnley
+18,Jeff Hendrick,9000000.0,Central Midfield,fc-burnley
+19,Aiden O'Neill,450000.0,Central Midfield,fc-burnley
+20,Josh Benson,0.0,Central Midfield,fc-burnley
+21,Robbie Brady,7200000.0,Left Midfield,fc-burnley
+22,Dwight McNeil,13500000.0,Left Winger,fc-burnley
+23,Jóhann Berg Gudmundsson,9000000.0,Right Winger,fc-burnley
+24,Aaron Lennon,4500000.0,Right Winger,fc-burnley
+25,Jonathan Walters,0.0,Right Winger,fc-burnley
+26,Chris Wood,16200000.0,Centre-Forward,fc-burnley
+27,Ashley Barnes,9000000.0,Centre-Forward,fc-burnley
+28,Matej Vydra,7200000.0,Centre-Forward,fc-burnley
+29,Sam Vokes,4500000.0,Centre-Forward,fc-burnley
+30,Nahki Wells,3600000.0,Centre-Forward,fc-burnley
+31,Peter Crouch,900000.0,Centre-Forward,fc-burnley
+32,Ntumba Massanka,0.0,Centre-Forward,fc-burnley
+0,Asmir Begovic,6300000.0,Goalkeeper,afc-bournemouth
+1,Artur Boruc,900000.0,Goalkeeper,afc-bournemouth
+2,Aaron Ramsdale,675000.0,Goalkeeper,afc-bournemouth
+3,Mark Travers,225000.0,Goalkeeper,afc-bournemouth
+4,Nathan Aké,27000000.0,Centre-Back,afc-bournemouth
+5,Chris Mepham,11700000.0,Centre-Back,afc-bournemouth
+6,Steve Cook,9000000.0,Centre-Back,afc-bournemouth
+7,Tyrone Mings,4500000.0,Centre-Back,afc-bournemouth
+8,Jack Simpson,1350000.0,Centre-Back,afc-bournemouth
+9,Diego Rico,8100000.0,Left-Back,afc-bournemouth
+10,Charlie Daniels,2700000.0,Left-Back,afc-bournemouth
+11,Brad Smith,900000.0,Left-Back,afc-bournemouth
+12,Nathaniel Clyne,10800000.0,Right-Back,afc-bournemouth
+13,Adam Smith,6300000.0,Right-Back,afc-bournemouth
+14,Simon Francis,1800000.0,Right-Back,afc-bournemouth
+15,Jefferson Lerma,22500000.0,Defensive Midfield,afc-bournemouth
+16,Matt Butcher,0.0,Defensive Midfield,afc-bournemouth
+17,Lewis Cook,18000000.0,Central Midfield,afc-bournemouth
+18,Harry Arter,6300000.0,Central Midfield,afc-bournemouth
+19,Dan Gosling,3150000.0,Central Midfield,afc-bournemouth
+20,Andrew Surman,2250000.0,Central Midfield,afc-bournemouth
+21,Emerson Hyndman,900000.0,Central Midfield,afc-bournemouth
+22,Nnamdi Ofoborh,135000.0,Central Midfield,afc-bournemouth
+23,Kyle Taylor,0.0,Central Midfield,afc-bournemouth
+24,Connor Mahoney,675000.0,Right Midfield,afc-bournemouth
+25,Ryan Fraser,27000000.0,Left Winger,afc-bournemouth
+26,Junior Stanislas,4050000.0,Left Winger,afc-bournemouth
+27,Marc Pugh,1350000.0,Left Winger,afc-bournemouth
+28,Alexandru Dobre,90000.0,Left Winger,afc-bournemouth
+29,David Brooks,27000000.0,Right Winger,afc-bournemouth
+30,Jordon Ibe,7200000.0,Right Winger,afc-bournemouth
+31,Joshua King,18000000.0,Second Striker,afc-bournemouth
+32,Callum Wilson,27000000.0,Centre-Forward,afc-bournemouth
+33,Dominic Solanke,16200000.0,Centre-Forward,afc-bournemouth
+34,Lys Mousset,3150000.0,Centre-Forward,afc-bournemouth
+35,Jermain Defoe,1800000.0,Centre-Forward,afc-bournemouth
+36,Sam Surridge,0.0,Centre-Forward,afc-bournemouth
+0,Mathew Ryan,9000000.0,Goalkeeper,brighton-amp-hove-albion
+1,David Button,1350000.0,Goalkeeper,brighton-amp-hove-albion
+2,Christian Walton,900000.0,Goalkeeper,brighton-amp-hove-albion
+3,Jason Steele,675000.0,Goalkeeper,brighton-amp-hove-albion
+4,Robert Sánchez,0.0,Goalkeeper,brighton-amp-hove-albion
+5,Shane Duffy,10800000.0,Centre-Back,brighton-amp-hove-albion
+6,Lewis Dunk,10800000.0,Centre-Back,brighton-amp-hove-albion
+7,Dan Burn,2700000.0,Centre-Back,brighton-amp-hove-albion
+8,Leon Balogun,1800000.0,Centre-Back,brighton-amp-hove-albion
+9,Leo Östigard,135000.0,Centre-Back,brighton-amp-hove-albion
+10,Ben White,0.0,Centre-Back,brighton-amp-hove-albion
+11,Ben Barclay,0.0,Centre-Back,brighton-amp-hove-albion
+12,Bernardo,8100000.0,Left-Back,brighton-amp-hove-albion
+13,Gaëtan Bong,1800000.0,Left-Back,brighton-amp-hove-albion
+14,Markus Suttner,1350000.0,Left-Back,brighton-amp-hove-albion
+15,Martín Montoya,7200000.0,Right-Back,brighton-amp-hove-albion
+16,Ezequiel Schelotto,2700000.0,Right-Back,brighton-amp-hove-albion
+17,Bruno,675000.0,Right-Back,brighton-amp-hove-albion
+18,Tudor Baluta,4050000.0,Defensive Midfield,brighton-amp-hove-albion
+19,Will Collar,0.0,Defensive Midfield,brighton-amp-hove-albion
+20,Yves Bissouma,13500000.0,Central Midfield,brighton-amp-hove-albion
+21,Davy Pröpper,13500000.0,Central Midfield,brighton-amp-hove-albion
+22,Pascal Groß,9000000.0,Central Midfield,brighton-amp-hove-albion
+23,Dale Stephens,5400000.0,Central Midfield,brighton-amp-hove-albion
+24,Beram Kayal,1350000.0,Central Midfield,brighton-amp-hove-albion
+25,Richie Towell,180000.0,Central Midfield,brighton-amp-hove-albion
+26,Max Sanders,0.0,Central Midfield,brighton-amp-hove-albion
+27,Jayson Molumby,0.0,Central Midfield,brighton-amp-hove-albion
+28,Solly March,7200000.0,Left Midfield,brighton-amp-hove-albion
+29,Alexis Mac Allister,4500000.0,Attacking Midfield,brighton-amp-hove-albion
+30,José Izquierdo,9000000.0,Left Winger,brighton-amp-hove-albion
+31,Alireza Jahanbakhsh,13500000.0,Right Winger,brighton-amp-hove-albion
+32,Anthony Knockaert,7200000.0,Right Winger,brighton-amp-hove-albion
+33,Jürgen Locadia,10800000.0,Centre-Forward,brighton-amp-hove-albion
+34,Florin Andone,5400000.0,Centre-Forward,brighton-amp-hove-albion
+35,Percy Tau,3150000.0,Centre-Forward,brighton-amp-hove-albion
+36,Glenn Murray,2700000.0,Centre-Forward,brighton-amp-hove-albion
+37,Tomer Hemed,2250000.0,Centre-Forward,brighton-amp-hove-albion
+38,Jan Mlakar,1800000.0,Centre-Forward,brighton-amp-hove-albion
+39,Viktor Gyökeres,450000.0,Centre-Forward,brighton-amp-hove-albion
+40,Aaron Connolly,0.0,Centre-Forward,brighton-amp-hove-albion
+0,Ben Foster,2700000.0,Goalkeeper,fc-watford
+1,Heurelho Gomes,900000.0,Goalkeeper,fc-watford
+2,Pontus Dahlberg,900000.0,Goalkeeper,fc-watford
+3,Daniel Bachmann,450000.0,Goalkeeper,fc-watford
+4,Christian Kabasele,7200000.0,Centre-Back,fc-watford
+5,Daryl Janmaat,5400000.0,Centre-Back,fc-watford
+6,Craig Cathcart,4500000.0,Centre-Back,fc-watford
+7,Sebastian Prödl,3150000.0,Centre-Back,fc-watford
+8,Adrian Mariappa,2700000.0,Centre-Back,fc-watford
+9,Miguel Britos,1800000.0,Centre-Back,fc-watford
+10,Ben Wilmot,1350000.0,Centre-Back,fc-watford
+11,Jorge Segura,810000.0,Centre-Back,fc-watford
+12,Tommie Hoban,450000.0,Centre-Back,fc-watford
+13,Adam Masina,6300000.0,Left-Back,fc-watford
+14,Marvin Zeegelaar,2250000.0,Left-Back,fc-watford
+15,Jose Cholevas,1800000.0,Left-Back,fc-watford
+16,Kiko Femenía,4500000.0,Right-Back,fc-watford
+17,Dimitri Foulquier,3150000.0,Right-Back,fc-watford
+18,Marc Navarro,1800000.0,Right-Back,fc-watford
+19,Étienne Capoue,7200000.0,Defensive Midfield,fc-watford
+20,Nathaniel Chalobah,6300000.0,Defensive Midfield,fc-watford
+21,Abdoulaye Doucouré,22500000.0,Central Midfield,fc-watford
+22,Will Hughes,16200000.0,Central Midfield,fc-watford
+23,Tom Cleverley,6300000.0,Central Midfield,fc-watford
+24,Domingos Quina,4500000.0,Central Midfield,fc-watford
+25,Kwasi Sibo,180000.0,Central Midfield,fc-watford
+26,Ken Sema,3150000.0,Left Midfield,fc-watford
+27,Roberto Pereyra,11700000.0,Attacking Midfield,fc-watford
+28,Gerard Deulofeu,22500000.0,Left Winger,fc-watford
+29,Dodi Lukébakio,16200000.0,Right Winger,fc-watford
+30,Andre Gray,13500000.0,Centre-Forward,fc-watford
+31,Cucho Hernández,9000000.0,Centre-Forward,fc-watford
+32,Troy Deeney,9000000.0,Centre-Forward,fc-watford
+33,Isaac Success,4500000.0,Centre-Forward,fc-watford
+34,Stefano Okaka,4500000.0,Centre-Forward,fc-watford
+35,Adalberto Peñaranda,1800000.0,Centre-Forward,fc-watford
+36,Obbi Oulare,1620000.0,Centre-Forward,fc-watford
+37,Jerome Sinclair,1350000.0,Centre-Forward,fc-watford
+38,Filip Stuparevic,1080000.0,Centre-Forward,fc-watford
+0,Rui Patrício,18000000.0,Goalkeeper,wolverhampton-wanderers
+1,John Ruddy,2700000.0,Goalkeeper,wolverhampton-wanderers
+2,Will Norris,225000.0,Goalkeeper,wolverhampton-wanderers
+3,Jack Ruddy,90000.0,Goalkeeper,wolverhampton-wanderers
+4,Harry Burgoyne,0.0,Goalkeeper,wolverhampton-wanderers
+5,Willy Boly,10800000.0,Centre-Back,wolverhampton-wanderers
+6,Conor Coady,9000000.0,Centre-Back,wolverhampton-wanderers
+7,Ryan Bennett,6300000.0,Centre-Back,wolverhampton-wanderers
+8,Romain Saïss,4500000.0,Centre-Back,wolverhampton-wanderers
+9,Roderick Miranda,1580000.0,Centre-Back,wolverhampton-wanderers
+10,Kortney Hause,900000.0,Centre-Back,wolverhampton-wanderers
+11,Ethan Ebanks-Landell,225000.0,Centre-Back,wolverhampton-wanderers
+12,Sylvain Deslandes,90000.0,Centre-Back,wolverhampton-wanderers
+13,Cameron John,0.0,Centre-Back,wolverhampton-wanderers
+14,Max Kilman,0.0,Centre-Back,wolverhampton-wanderers
+15,Jonny Otto,18000000.0,Left-Back,wolverhampton-wanderers
+16,Rúben Vinagre,6300000.0,Left-Back,wolverhampton-wanderers
+17,Matt Doherty,13500000.0,Right-Back,wolverhampton-wanderers
+18,Phil Ofosu-Ayeh,270000.0,Right-Back,wolverhampton-wanderers
+19,Rúben Neves,40500000.0,Defensive Midfield,wolverhampton-wanderers
+20,Leander Dendoncker,16200000.0,Defensive Midfield,wolverhampton-wanderers
+21,Ming-Yang Yang,225000.0,Defensive Midfield,wolverhampton-wanderers
+22,João Moutinho,9000000.0,Central Midfield,wolverhampton-wanderers
+23,Morgan Gibbs-White,7200000.0,Central Midfield,wolverhampton-wanderers
+24,Connor Ronan,450000.0,Central Midfield,wolverhampton-wanderers
+25,Elliot Watt,0.0,Central Midfield,wolverhampton-wanderers
+26,Ryan Giles,0.0,Left Midfield,wolverhampton-wanderers
+27,Jordan Graham,450000.0,Left Winger,wolverhampton-wanderers
+28,Hélder Costa,13500000.0,Right Winger,wolverhampton-wanderers
+29,Adama Traoré,13500000.0,Right Winger,wolverhampton-wanderers
+30,Ivan Cavaleiro,9000000.0,Right Winger,wolverhampton-wanderers
+31,Pedro Gonçalves,0.0,Right Winger,wolverhampton-wanderers
+32,Raúl Jiménez,31500000.0,Centre-Forward,wolverhampton-wanderers
+33,Diogo Jota,31500000.0,Centre-Forward,wolverhampton-wanderers
+34,Léo Bonatini,3600000.0,Centre-Forward,wolverhampton-wanderers
+35,Rafa Mir,2700000.0,Centre-Forward,wolverhampton-wanderers
+36,Bright Enobakhare,450000.0,Centre-Forward,wolverhampton-wanderers
+37,Michal Zyro,225000.0,Centre-Forward,wolverhampton-wanderers
+38,Benny Ashley-Seal,135000.0,Centre-Forward,wolverhampton-wanderers
+39,Niall Ennis,0.0,Centre-Forward,wolverhampton-wanderers
+0,Jonas Lössl,4500000.0,Goalkeeper,huddersfield-town
+1,Ben Hamer,450000.0,Goalkeeper,huddersfield-town
+2,Joel Coleman,450000.0,Goalkeeper,huddersfield-town
+3,Ryan Schofield,90000.0,Goalkeeper,huddersfield-town
+4,Terence Kongolo,13500000.0,Centre-Back,huddersfield-town
+5,Christopher Schindler,6300000.0,Centre-Back,huddersfield-town
+6,Zanka,4500000.0,Centre-Back,huddersfield-town
+7,Chris Löwe,1800000.0,Left-Back,huddersfield-town
+8,Florent Hadergjonaj,6300000.0,Right-Back,huddersfield-town
+9,Tommy Smith,2700000.0,Right-Back,huddersfield-town
+10,Erik Durm,1800000.0,Right-Back,huddersfield-town
+11,Demeaco Duhaney,0.0,Right-Back,huddersfield-town
+12,Danny Williams,1800000.0,Defensive Midfield,huddersfield-town
+13,Jon Gorenc Stankovic,1350000.0,Defensive Midfield,huddersfield-town
+14,Aaron Mooy,12600000.0,Central Midfield,huddersfield-town
+15,Philip Billing,6300000.0,Central Midfield,huddersfield-town
+16,Jonathan Hogg,3150000.0,Central Midfield,huddersfield-town
+17,Juninho Bacuna,3150000.0,Central Midfield,huddersfield-town
+18,Jason Puncheon,2700000.0,Central Midfield,huddersfield-town
+19,Aaron Rowe,0.0,Right Midfield,huddersfield-town
+20,Alex Pritchard,8100000.0,Attacking Midfield,huddersfield-town
+21,Abdelhamid Sabiri,1350000.0,Attacking Midfield,huddersfield-town
+22,Jack Payne,315000.0,Attacking Midfield,huddersfield-town
+23,Matty Daly,0.0,Attacking Midfield,huddersfield-town
+24,Adama Diakhaby,7200000.0,Left Winger,huddersfield-town
+25,Ramadan Sobhi,4500000.0,Left Winger,huddersfield-town
+26,Rajiv van La Parra,3600000.0,Left Winger,huddersfield-town
+27,Isaac Mbenza,4500000.0,Right Winger,huddersfield-town
+28,Steve Mounié,9000000.0,Centre-Forward,huddersfield-town
+29,Karlan Grant,4500000.0,Centre-Forward,huddersfield-town
+30,Laurent Depoitre,3150000.0,Centre-Forward,huddersfield-town
+31,Elias Kachunga,2700000.0,Centre-Forward,huddersfield-town
+32,Collin Quaner,1350000.0,Centre-Forward,huddersfield-town
+0,Neil Etheridge,7200000.0,Goalkeeper,cardiff-city
+1,Alex Smithies,3150000.0,Goalkeeper,cardiff-city
+2,Brian Murphy,225000.0,Goalkeeper,cardiff-city
+3,Sean Morrison,4500000.0,Centre-Back,cardiff-city
+4,Bruno Ecuele Manga,2700000.0,Centre-Back,cardiff-city
+5,Sol Bamba,900000.0,Centre-Back,cardiff-city
+6,Matthew Connolly,675000.0,Centre-Back,cardiff-city
+7,Ciaron Brown,0.0,Centre-Back,cardiff-city
+8,Joe Bennett,2700000.0,Left-Back,cardiff-city
+9,Greg Cunningham,2700000.0,Left-Back,cardiff-city
+10,Lee Peltier,1350000.0,Right-Back,cardiff-city
+11,Jazz Richards,675000.0,Right-Back,cardiff-city
+12,Cameron Coxe,0.0,Right-Back,cardiff-city
+13,Víctor Camarasa,9000000.0,Central Midfield,cardiff-city
+14,Harry Arter,6300000.0,Central Midfield,cardiff-city
+15,Joe Ralls,4500000.0,Central Midfield,cardiff-city
+16,Leandro Bacuna,2700000.0,Central Midfield,cardiff-city
+17,Aron Gunnarsson,2250000.0,Central Midfield,cardiff-city
+18,Loïc Damour,675000.0,Central Midfield,cardiff-city
+19,Stuart O'Keefe,450000.0,Central Midfield,cardiff-city
+20,Lloyd Humphries,0.0,Central Midfield,cardiff-city
+21,Kadeem Harris,675000.0,Right Midfield,cardiff-city
+22,Bobby Reid,9000000.0,Attacking Midfield,cardiff-city
+23,Josh Murphy,9000000.0,Left Winger,cardiff-city
+24,Junior Hoilett,4050000.0,Left Winger,cardiff-city
+25,Nathaniel Mendez-Laing,2700000.0,Right Winger,cardiff-city
+26,Lee Tomlin,1800000.0,Second Striker,cardiff-city
+27,Kenneth Zohore,6300000.0,Centre-Forward,cardiff-city
+28,Oumar Niasse,5400000.0,Centre-Forward,cardiff-city
+29,Callum Paterson,4500000.0,Centre-Forward,cardiff-city
+30,Gary Madine,3600000.0,Centre-Forward,cardiff-city
+31,Danny Ward,1350000.0,Centre-Forward,cardiff-city
+32,Omar Bogle,450000.0,Centre-Forward,cardiff-city
+33,Rhys Healey,225000.0,Centre-Forward,cardiff-city
+34,Jack McKay,0.0,Centre-Forward,cardiff-city

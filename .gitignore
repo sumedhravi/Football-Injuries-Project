@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+all.csv
+open-data/
+.~all_data*
+tabpy_log.log*
+.~injuries_vis*
+StatsbombData/
+all_extract.hyper
+TableauData/*
